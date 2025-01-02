@@ -23,7 +23,7 @@ const View = async ({ id }: { id: string }) => {
             .patch(id)
             .set({ views: totalViews + 1 })
             .commit();
-        console.log("View count updated");
+        // console.log("View count updated");
     });
 
     return (
