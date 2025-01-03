@@ -1,36 +1,47 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# YC Directory 🚀
 
-## Getting Started
+YC Directory is a platform for entrepreneurs to pitch their startup ideas, connect with like-minded innovators, and participate in virtual competitions. The goal is to foster collaboration and provide exposure to emerging startups.
 
-First, run the development server:
+## 🌟 Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Startup Pitch Submissions**: Entrepreneurs can submit their startup ideas to the platform.
+- **Community Engagement**: Users can browse, vote, and interact with various startup pitches.
+- **Profile Management**: View and manage your submissions in your personal profile.
+- **Editor Picks**: Highlighted startup ideas curated through the Sanity CMS.
+- **Real-time Content Updates**: Optimized for seamless navigation and interaction.
+- **Search and Explore**: Easily find and explore innovative ideas.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🛠️ Tech Stack
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Framework**: [Next.js](https://nextjs.org/)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+- **CMS**: [Sanity CMS](https://www.sanity.io/)
+- **Deployment**: [Vercel](https://vercel.com/)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## ⚙️ Key Features in Detail
 
-## Learn More
+1. **Startup Pitch Submissions**:
+   - Submit your startup idea with details like title, description, and category.
+   - Engage with the community through interactive voting.
 
-To learn more about Next.js, take a look at the following resources:
+2. **Editor Picks**:
+   - Featured ideas managed through Sanity Studio for enhanced visibility.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+3. **Search Functionality**:
+   - Quickly locate startups of interest with an integrated search bar.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+4. **GitHub Authentication**:
+   - Log in securely using your GitHub account.
 
-## Deploy on Vercel
+5. **Real-time Views Counter**:
+   - Track the popularity of startup ideas.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🚀 Live Demo
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Check out the live project: [YC Directory](https://yc-directory-2yb3.vercel.app)
+
+## 🛠️ Local Setup
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Nikhil2005Rai/yc-directory.git
